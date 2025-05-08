@@ -1,0 +1,7 @@
+[package]
+name = "calc_lang"
+version = "0.1.0"
+authors = ["me", "andawng"]
+edition = "2024"
+
+[dependencies]
